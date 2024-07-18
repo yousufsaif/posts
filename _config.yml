@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 0 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Muscat
 
@@ -57,8 +57,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author: false
-  name   : "First Lastname"
+author:
+  name   : "Yousuf Saif Al Hinai"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
