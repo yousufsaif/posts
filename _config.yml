@@ -27,7 +27,7 @@ sticky_sidebar: false
 
 # Build settings
 markdown: kramdown
-remote_theme: alshedivat/al-folio # mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
