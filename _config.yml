@@ -23,6 +23,7 @@ twitter_username: yousufalhinai
 github_username: yousufsaif
 minimal_mistakes_skin: default
 search: true
+sticky_sidebar: false
 
 # Build settings
 markdown: kramdown
