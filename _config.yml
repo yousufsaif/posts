@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Yousuf Saif Al Hinai"
+  name   : "Yousuf S. Al Hinai"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My (alshedivat / al-folio) awesome biography constrained to a sentence or two goes here."
   links:
